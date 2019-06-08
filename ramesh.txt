@@ -1,2 +1,1 @@
-Git Practicie 123i
-Modified after cloning
+Git Practicie 123
