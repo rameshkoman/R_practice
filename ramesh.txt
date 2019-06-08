@@ -1,2 +1,7 @@
 Git Practicie 123
+<<<<<<< HEAD
 
+=======
+Ramesh
+>>>>>>> origin
+Amend check
