@@ -4,4 +4,7 @@ Git Practicie 123
 =======
 Ramesh
 >>>>>>> origin
+<<<<<<< HEAD
 Amend check
+=======
+>>>>>>> b35ed33af52a19b3552ed8959711b5cbd43b1f07
